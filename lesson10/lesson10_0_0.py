@@ -1,4 +1,5 @@
-#老師解答
+#老師解答 dataclass版本
+
 
 from dataclasses import dataclass
 import pyinputplus as pyip
