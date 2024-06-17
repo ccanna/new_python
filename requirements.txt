@@ -2,4 +2,6 @@ PyInputPlus
 pydantic
 requests
   matplotlib
+numpy
 pandas
+openpyxl
